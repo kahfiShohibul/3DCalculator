@@ -52,7 +52,7 @@ document.getElementById("aaa").innerHTML=c;
   </div>
   <div class="logo">
     <div>
-      <h9><img src="img/RAS.png"></h9>
+      <h9><img src="RAS.png"></h9>
       
     </div>
   </div>
