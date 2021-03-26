@@ -72,7 +72,7 @@ document.getElementById("aaa").innerHTML=c;
   <div class="row">
     <div class="col-sm-4">
       <h2>Silinder</h2>
-      <h3><img src="img/silinder.png"></h3>
+      <h3><img src="silinder.png"></h3>
       <div class="description">
             <label>Masukkan Jari-Jari Silinder:</label>  
                 <input type="text" id="jariSilinder"><br><br>
@@ -88,7 +88,7 @@ document.getElementById("aaa").innerHTML=c;
     <div class="col-sm-4">
     <div class="container">	
       <h2>Kerucut</h2>
-      <h3><img src="img/kerucut.png" alt=""></h3>
+      <h3><img src="kerucut.png" alt=""></h3>
        <div class="col-md-5 col-md-offset-1">
                 <label>Masukkan Jari-Jari Kerucut:</label>
                     <input type="text" id="jariKerucut"><br><br>
@@ -107,7 +107,7 @@ document.getElementById("aaa").innerHTML=c;
     <div class="col-sm-4">
     <div class="container">	
       <h2>Bola</h2>
-      <h3><img src="img/bulat.png" alt=""></h3>        
+      <h3><img src="bulat.png" alt=""></h3>        
       <label>Masukkan Jari-Jari Bola:</label>
         <input type="text" id="jariBola"><br><br>
             <button class = "btn_hitung" onclick="permukaanBola(), volumeBola()">Hitung!
