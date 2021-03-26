@@ -1,0 +1,49 @@
+.sosmed {
+	padding:5px 0;
+	background-color: #8250D2;
+
+}
+.sosmed  ul li {
+	color: red;
+	margin-right: 10px;
+}
+.container {
+	background-color: #8250D2;
+
+}
+h1 {
+	font-family: fantasy;
+	text-transform: uppercase;
+	color: red
+
+}
+h5 {
+	font-family: fantasy;
+	color: red;
+}
+.home {
+	background-color: #39C9C5;
+}
+.nama {
+	background-color: #39C9C5;
+}
+h2 {
+	font-family: fantasy;
+	text-transform: uppercase;
+	color: red;
+}
+.media {
+	background-color: #22CCCC;
+}
+h6 {
+	font-family: fantasy;
+	color: red;
+}
+h4 {
+	font-family: fantasy;
+	color: red;
+}
+.logo{
+  text-align: center;
+  background-color: #00bbff;
+}
